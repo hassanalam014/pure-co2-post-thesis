@@ -1,4 +1,3 @@
-# Author: Kier von Konigslow
 # Date: April 2017
 #
 # Description: The purpose of this file is to estimate the pure fluid parameters of Carbon Dioxide (CO2) by regressing to experimental PVT data.

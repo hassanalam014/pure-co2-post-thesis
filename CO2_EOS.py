@@ -1,4 +1,3 @@
-# Author: Kier von Konigslow
 # Date: July 2017
 #
 # Description: The purpose of this file is caulculate the free energy and equation of state of Carbon Dioxide
